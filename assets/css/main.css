@@ -3,6 +3,7 @@ nav{
 
 }
 
+
 nav a{
 	margin-top: 10px;
 	color: #4c4747;
@@ -77,4 +78,34 @@ nav a{
 
 .conduce h3{
 	margin-top: 25%;
+}
+
+form li{
+	margin-top: 10px;
+	list-style: none;
+}
+
+form li a{
+	border: 1px solid width;
+}
+
+.negro{
+	background-color: black;
+	height: 350px;
+	color: white;
+}
+
+.margen-2{
+	top: 50px;
+}
+
+.negro li{
+	list-style: none;
+}
+
+.logos img{
+	margin: 10px;
+	height: 20%;
+	width: 60%;
+	bottom: 80%;
 }
