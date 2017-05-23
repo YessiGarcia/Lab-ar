@@ -89,6 +89,10 @@ form li a{
 	border: 1px solid width;
 }
 
+#centro{
+	margin-left: 20%;
+}
+
 .negro{
 	background-color: black;
 	height: 350px;
