@@ -1,0 +1,80 @@
+nav{
+	padding: 5px;
+
+}
+
+nav a{
+	margin-top: 10px;
+	color: #4c4747;
+	cursor: pointer;
+}
+
+.principal{
+	width: 100%;
+	height: 800px;
+}
+
+.registrate{
+	height: 300px;
+	width: 35%;
+	background-color: #f9a30b;
+	top: -500px;
+	left: 65%;
+	position: relative;
+	color: white;
+}
+
+.registrate h4{
+	margin-top: 40px;
+}
+
+.registrate button{
+	color:black;
+}
+
+.linea{
+	margin: 20px;
+}
+
+.amarilla{
+	background-color: #f9a30b;
+	height: 400px;
+	width: 100%;
+	position:relative;
+}
+
+.cuadro{
+	border: 1px solid white;
+	height: 70%;
+	top: 10%;
+	position: absolute;
+}
+
+.cuadro img{
+	height: 80%;
+}
+
+.cuadro img , .margen{
+	top: 5%;
+}
+
+.letra {
+	color: white;
+}
+
+.conduce{
+	background-color: gray;
+	height: 300px;
+	width: 40%;
+	color: white;
+	bottom: 400px;
+	position: absolute;
+}
+
+.conduce button{
+	background-color: #f9a30b;
+}
+
+.conduce h3{
+	margin-top: 25%;
+}
